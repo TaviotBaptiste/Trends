@@ -1,0 +1,8 @@
+python-crontab
+uvicorn
+pytrends
+pymongo
+flask
+schedule
+fastapi
+motor
